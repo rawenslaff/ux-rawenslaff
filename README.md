@@ -4,4 +4,4 @@ My name is Rafael Wenslaff and I'm a Computer Science major at Chico State. Some
 
 ## UX Journals:
 
-1. ![Adobe Premiere Pro's UI Scaling (*or lack thereof*)](journal1.md)
+1. ![Adobe Premiere Pro's UI Scaling (*or lack thereof*)](./journal1.md)
