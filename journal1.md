@@ -31,6 +31,7 @@ Premiere Pro does have a menu at the top of the UI called _Workspaces_, which co
 This appears to be Adobe's method of combatting the limited screen space available, but I found this to be a usability issue primarily because it lacks **efficiency**. Having everything that I might need to interact with visible on my screen is efficient; everything has a dedicated space and is quickly available via cursor movement. Switching between workspaces, on the other hand, is **not efficient** for two main reasons:
 
 1) Switching to another workspace involves several clicks or the pressing of a hotkey. This increases the number of steps needed to achieve my goal; one of the metrics used to evaluate efficiency.
+
 2) Clicks/hotkeys aside, switching to another workspace itself can take several seconds to load. This is especially noticeable on larger project files. This increases the amount of time needed to achieve my goal; another metric used to evaluate efficiency. Additionally, taking several seconds to indicate to the user that their action was successful is an example of poor **feedback**. While a few seconds may not seem like a lot, it is magnitudes slower than the instant feedback the user expects, never mind the fact that users may need to perform the action several times.
 
 This brings me back to my original issue: my inability to scale down the UI. A feature like this is not foreign to video editing software either. Another popular software, DaVinci Resolve, has UI scaling built in:
