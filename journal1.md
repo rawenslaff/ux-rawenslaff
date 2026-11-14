@@ -26,6 +26,8 @@ Premiere Pro does have a menu at the top of the UI called _Workspaces_, which co
 
 ![Workspaces](/assets/workspaces.png)
 
+("Color" workspace on the left, "Audio" workspace on the right)
+
 This appears to be Adobe's method of combatting the limited screen space available, but I found this to be a usability issue primarily because it lacks **efficiency**. Having everything that I might need to interact with visible on my screen is efficient; everything has a dedicated space and is quickly available via cursor movement. Switching between workspaces, on the other hand, is **not efficient** for two main reasons:
 
 1) Switching to another workspace involves several clicks or the pressing of a hotkey. This increases the number of steps needed to achieve my goal; one of the metrics used to evaluate efficiency.
