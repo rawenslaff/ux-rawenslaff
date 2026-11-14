@@ -20,7 +20,7 @@ Premiere Pro *does* provide some flexibility through the ability to vertically (
 
 My typical approach to an interface that feels too zoomed in is the *ctrl + minus* shortcut, as this is a common **convention** used to zoom out in browsers like Google Chrome or Mozilla Firefox, as well as in several apps, such as Spotify or Discord. However, this shortcut only zoomed out within the timeline, which was the action I just performed, not the one I intended. That is to say, the **mental model** of using *ctrl + minus* to zoom out the UI that I had developed from prior application usage conflicted with Adobe's **conceptual model** of only zooming out within the timeline panel. 
 
-Ultimately, I determined that there is no native option within Premiere Pro to scale the UI.
+Ultimately, I determined that there is no native option within Premiere Pro to scale the entire UI.
 
 Premiere Pro does have a menu at the top of the UI called _Workspaces_, which consists of over a dozen preset UI layouts, each targeting a specific stage of the post-production process (e.g., editing, color grading, audio), as well as any custom layouts the user creates.
 
