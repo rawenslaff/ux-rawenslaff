@@ -7,6 +7,7 @@ I have been using Adobe Premiere Pro as my primary video editing software for a 
 The timeline serves as the main workspace, allowing users to arrange and trim video and audio clips, apply effects, and adjust properties like color and volume. Everything is organized chronologically from left-to-right, while vertical layers determine the visibility of video clips (i.e., if several clips are stacked on top of one another, only the top clip is visible). This is analogous to traditional film editing, where physical film was cut and rearranged to create a finished movie. This demonstrates Jakob Nielsen's **Matching Between the System and the Real World** heuristic, which suggests that interfaces should follow real-world conventions so that users can relate to a familiar, real world counterpart.
 
 ![Traditional Film Editing](/assets/film2.gif)
+
 (Taken from [Film Editing \| Magpie \| Children's TV \| 1977 (ThamesTV)](https://www.youtube.com/watch?v=lB933a1CF1Y))
 
 Early last year, I was commissioned to edit a performance-style music video for a local artist. This type of project typically involves one audio layer (the song), and several video layers (different takes of the artist performing the song), all synchronized to that audio layer. 
